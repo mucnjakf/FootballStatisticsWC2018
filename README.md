@@ -1,13 +1,15 @@
 # FootballStatisticsWC2018
 
-Football Statistics Windows Desktop Application - 2018.
+Football Statistics World Cup 2018 Windows Desktop Application - 2018.
 
 ---
 
 ### **Overview**
-Football Statistics World Cup 2018 is a system that consists of two applications, a Windows Forms desktop application and a WPF Windows application.
-Windows Forms desktop application user selects their favorite team to see players, match and player statistics.
-WPF Windows application user selects teams that played against each other to see results, team formations and players information.
+Football Statistics World Cup 2018 is a system that consists of two applications, a Windows Forms and WPF desktop application.
+
+In the Windows Forms desktop application, users can select their favorite team and gain access to a wealth of statistics, including detailed player profiles, match summaries, and comprehensive team statistics.
+
+The WPF Windows application focuses on match-specific information. Users can select two teams that competed against each other to view detailed match results, team formations, and in-depth player information.
 
 ---
 
@@ -18,7 +20,7 @@ WPF Windows application user selects teams that played against each other to see
 ---
 
 ### **Tools**
-- Source Control: JetBrains Space
+- Source Control: GitHub
 - IDE: Visual Studio 2019
 
 ---
