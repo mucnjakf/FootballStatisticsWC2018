@@ -1,4 +1,4 @@
-# <img src="footballstatisticswc2018.png" width="25"/> FootballStatisticsWC2018
+# <img src="footballstatisticswc2018.svg" width="25"/> FootballStatisticsWC2018
 
 ### **👁️ Overview**
 Football Statistics World Cup 2018 Windows Desktop Application - 2018.
